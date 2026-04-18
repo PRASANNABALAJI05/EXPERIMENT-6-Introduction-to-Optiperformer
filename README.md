@@ -70,22 +70,17 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="960" height="1280" alt="WhatsApp Image 2026-04-18 at 2 18 12 PM" src="https://github.com/user-attachments/assets/1ee74623-0735-4ed6-ae22-dc6cf81dbcfd" />
+
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1919" height="1079" alt="Screenshot 2026-04-18 141901" src="https://github.com/user-attachments/assets/d30f6191-7489-4cc5-827d-2f1e91cb991c" />
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+The simulation shows that increasing the fiber length from **50 km to 150 km** significantly reduces signal quality. This is evidenced by a **lower Max Q Factor**, a **higher Bit Error Rate**, and a closing eye diagram. Ultimately, the results confirm that longer distances require amplification or compensation to maintain clear data transmission.
